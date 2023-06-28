@@ -174,7 +174,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../imgg/bg-hero.png);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -305,7 +305,7 @@
 
 /*** Booking ***/
 .booking {
-    background: linear-gradient(rgba(15, 23, 43, .7), rgba(15, 23, 43, .7)), url(../imgg/booking.png);
+    background: linear-gradient(rgba(15, 23, 43, .7), rgba(15, 23, 43, .7)), url(../img/booking.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
