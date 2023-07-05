@@ -21,7 +21,9 @@
     bottom: 45px;
     z-index: 99;
 }
-
+.text-primaryy{
+    color: yellow;
+}
 
 /*** Spinner ***/
 #spinner {
